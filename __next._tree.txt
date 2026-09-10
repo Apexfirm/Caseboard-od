@@ -1,0 +1,4 @@
+:HL["/_next/static/css/ae1f814153e061a0.css","style"]
+:HL["/assets/logo/caseboard-primary.svg","image"]
+:HL["/assets/logo/caseboard-white.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"79K3UCUYywNjQmBfEyzI4"}

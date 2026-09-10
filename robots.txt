@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# 시연 전용 — 검색엔진 수집 금지
