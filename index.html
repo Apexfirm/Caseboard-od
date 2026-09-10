@@ -9,11 +9,11 @@ nav div[class*="md:w-fit"] > button:first-child {
   align-items: center;
 }
 #sponsor-logo-container img {
-  height: 32px;
+  height: 44px;
   width: auto;
 }
 @media (min-width: 640px) {
-  #sponsor-logo-container img { height: 36px; }
+  #sponsor-logo-container img { height: 48px; }
 }
 
 /* Framer Motion 초기 opacity:0 강제 해제 */
@@ -30,7 +30,7 @@ nav div[class*="md:w-fit"] > button:first-child {
       Array.from(el.children).forEach(function(c) { c.style.display = 'none'; });
       var div = document.createElement('div');
       div.id = 'sponsor-logo-container';
-      div.innerHTML = '<img src="/Caseboard-od/assets/logo/sponsor-3w-circle.png" alt="3W HSC RISE">';
+      div.innerHTML = '<img src="/Caseboard-od/assets/logo/sponsor-3w-v2.png" alt="3W HSC RISE">';
       el.appendChild(div);
     });
     document.querySelectorAll('nav li button').forEach(function(b) {
